@@ -1,6 +1,7 @@
 <h1 align="center">Hello! I am Vladimir!</h1>
 <p align="left">
-  Graduated from SIBSUTIS with a bachelor's degree in Fundamental Informatics and Information Technology. Participated in a hackathon and a course on web development from the company TENZOR. I am interested in sports and guitar.
+  Graduated from SIBSUTIS with a bachelor's degree in Fundamental Informatics and Information Technology. Participated in a hackathon and a course on web development from the company TENZOR. At the hackathon, he      participated in the development of the mobile application interface. Flutter was used for development. The idea of ​​the application was to find a partner for various games available in the office. During the web     development course I worked on the front-end component of a social network. Used React+Redux and Socket.io to work with the backend. 
+  I am interested in sports and guitar.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
