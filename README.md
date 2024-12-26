@@ -1,7 +1,14 @@
-<h1 align="center">Hello! I am Vladimir!</h1>
+<h1 align="center">Привет! Меня зовут Владимир</h1>
 <p align="left">
-  Graduated from SIBSUTIS with a bachelor's degree in Fundamental Informatics and Information Technology. Participated in a hackathon and a course on web development from the company TENZOR. At the hackathon, he      participated in the development of the mobile application interface. Flutter was used for development. The idea of ​​the application was to find a partner for various games available in the office. During the web     development course I worked on the front-end component of a social network. Used React+Redux and Socket.io to work with the backend. 
-  I am interested in sports and guitar.
+  Я живу в Новосибирске
+  В данное время учусь в академии нейросетей The Founder
+  Мой телеграм @VladimirSharap
+
+  Обо мне
+  Окончил Сибирский Государственный Университет Телекоммуникаций и Информатики (СибГУТИ) по специальности «Фундаментальная информатика и информационные технологии» в 2020 году. Принимал участие в хакатоне и курсе по веб-разработке от компании ТЕНЗОР. На хакатоне участвовал в разработке интерфейса мобильного приложения. Для разработки интерфейса использовали Flutter. Идея приложения заключалась в поиске партнера для различных настольных игр, доступных в офисе. На курсе веб-разработки я работал над фронтенд-компонентом социальной сети. Для разработки использовал React+Redux и Socket.io. В данный момент прохожу обучение в академии нейросетей The Founder. Нейронные сети привлекли меня своей перспективностью и способностью использования в самых различных областях.
+  О моих проектах:
+  Хакатон: TensorHack
+  [Проект](https://clck.ru/3FTm8e)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
